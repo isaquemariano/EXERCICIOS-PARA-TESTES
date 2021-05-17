@@ -8,3 +8,4 @@ elif s < 19:
     print('voce precisa ganhar peso, se alimente melhor')
 else:
     print('Parabens seu peso esta ideal')
+    
