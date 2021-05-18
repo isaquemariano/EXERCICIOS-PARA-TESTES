@@ -8,3 +8,4 @@ def soma(a, b):
 soma(8, 8)
 soma(150, 125)
 soma(255, 455)
+soma (100, 1000)
